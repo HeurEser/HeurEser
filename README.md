@@ -1,6 +1,9 @@
 👋 Hi, I’m @HeurEser
+
 👀 I’m interested in Machine Learning Algorithms
+
 🌱 I’m currently pursuing a Master's in Big Data Analytics at MEF University
+
 💞️ I’m looking to collaborate on Machine Learning Algorithms and Big Data Analytics applications
 
 <!---
